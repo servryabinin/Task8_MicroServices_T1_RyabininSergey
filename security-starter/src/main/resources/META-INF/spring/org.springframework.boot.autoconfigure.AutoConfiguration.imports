@@ -1,0 +1,4 @@
+ru.example.micro.security.config.SecurityConfig
+ru.example.micro.security.config.RestTemplateConfig
+ru.example.micro.security.token.ServiceTokenGenerator
+ru.example.micro.security.SecurityAutoConfiguration
